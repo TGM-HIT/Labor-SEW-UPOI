@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="myPOI-Converter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+	<wpt lat="48.244041" lon="16.159472">
+		<name>HOME</name>
+		<sym>Dot</sym>
+	</wpt>
+	<wpt lat="48.236002" lon="16.367351">
+		<name>SCHULE</name>
+		<sym>Dot</sym>
+	</wpt>
+</gpx>
